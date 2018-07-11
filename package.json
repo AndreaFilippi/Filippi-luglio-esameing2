@@ -1,0 +1,22 @@
+{
+  "name": "esame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaFilippi/Filippi-luglio-esameing2.git"
+  },
+  "author": "andrea filippi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaFilippi/Filippi-luglio-esameing2/issues"
+  },
+  "homepage": "https://github.com/AndreaFilippi/Filippi-luglio-esameing2#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
